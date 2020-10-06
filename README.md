@@ -46,5 +46,6 @@ And that's it.</p>
 <code>npm install -g yarn</code>
 ---
 ---
+<br>
 <strong>Screenshots</strong><br>
-<img src="./assets/screens.jpg" alt="screenshots" width="180" >
+<img src="./assets/screens.jpg" alt="screenshots" />
