@@ -44,8 +44,10 @@ And that's it.</p>
 <a href="https://git-scm.com/downloads" title="https://git-scm.com/downloads">git web</a> 
 <h5>Yarn package manager</h5>
 <code>npm install -g yarn</code>
+
 ---
 ---
+
 <br>
 <strong>Screenshots</strong><br>
 <img src="./assets/screens.jpg" alt="screenshots" />
